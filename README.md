@@ -64,10 +64,10 @@ This autonomous agent processes insurance claim documents (FNOL - First Notice o
 ### Step 1: Clone or Download the Project
 
 ```bash
-cd c:\Users\iamis\Desktop\pr\synapx\claims_agent
+git clone https://github.com/siddharthgupta5/Autonomous-Insurance-Claims-Processing-Agent.git
 ```
 
-### Step 2: Create Virtual Environment (Recommended)
+### Step 2: Create Virtual Environment in the project (Recommended)
 
 ```bash
 # Create virtual environment
