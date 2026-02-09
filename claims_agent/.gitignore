@@ -1,0 +1,98 @@
+# .gitignore for Insurance Claims Agent
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Linting
+.flake8
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Output files
+output/
+results/
+*.json
+!sample*.json
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.tmp
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS specific
+.DS_Store
+Thumbs.db
+.vscode
+.idea/
+
+# Project specific
+/venv
+/env
+/.env
+submissions/
+
+# IDE settings
+.code-workspace
+.settings/

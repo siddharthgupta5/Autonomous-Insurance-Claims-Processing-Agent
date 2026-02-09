@@ -1,0 +1,7 @@
+# Core Dependencies (Required)
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# Testing (Optional - tests can run with built-in unittest)
+# Uncomment below for enhanced test output:
+pytest>=7.4.0
