@@ -1,0 +1,43 @@
+﻿CLAIM INFORMATION
+Date of Loss
+January 20, 2024
+Type of Claim
+Property Damage
+
+INSURED INFORMATION
+Policy Number
+POL-2024-TEST123
+Name of Insured
+Test User
+Policy Effective Date
+01/01/2024
+Policy Expiration Date
+01/01/2025
+
+VEHICLE INFORMATION
+Year/Make/Model
+2019 Ford F-150
+Vehicle Identification Number (VIN)
+1FTFW1E50KFA12345
+
+INCIDENT LOCATION
+Location of Loss
+123 Test Street, Test City, TX
+
+DESCRIPTION OF LOSS
+The circumstances of this accident seem staged and inconsistent with the reported damages. There are suspicious elements that suggest possible fraud.
+
+DAMAGE ASSESSMENT
+Estimated Damage Amount
+$15,000
+Initial Estimate
+$15,000
+
+CLAIMANT INFORMATION
+Claimant Name
+Test User
+Contact Phone
+555-1234
+
+ATTACHMENTS
+Test photos

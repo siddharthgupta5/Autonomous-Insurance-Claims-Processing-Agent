@@ -1,0 +1,58 @@
+﻿
+                    AUTOMOBILE LOSS NOTICE - ACORD FORM 1
+                          BODILY INJURY CLAIM
+
+
+CLAIM INFORMATION
+Date of Loss
+January 8, 2024
+Time of Loss
+10:15 AM
+Type of Claim
+Bodily Injury
+
+INSURED INFORMATION
+Policy Number
+POL-2024-003415
+Name of Insured
+Patricia Ellen Martinez
+Policy Effective Date
+09/01/2023
+Policy Expiration Date
+09/01/2024
+
+CLAIMANT/INJURED PARTY INFORMATION
+Claimant Name
+Robert James Mitchell
+Claimant Phone
+555-3692
+Claimant Email
+rmitchell@financialservices.com
+
+VEHICLE INFORMATION
+Year/Make/Model
+2020 Toyota Camry
+Vehicle Identification Number (VIN)
+2G1FB1E37D1278541
+
+INCIDENT LOCATION
+Location of Loss
+Commonwealth Avenue and Exeter Street, Boston, MA
+
+DESCRIPTION OF LOSS
+Claimant (passenger) was traveling in insured vehicle when vehicle was rear-ended by third-party vehicle at traffic light. The impact caused claimant to sustain neck, back, and shoulder injuries requiring emergency medical treatment.
+
+DAMAGE ASSESSMENT
+Estimated Damage Amount
+$35,000
+Initial Estimate
+$35,000
+
+THIRD PARTY INFORMATION
+Third Party Driver Name
+Richard Scott Goldman
+Third Party Phone
+555-8021
+
+ATTACHMENTS
+Medical records from Boston Medical Center, Police Report #BPD-2024-00892, Photos of vehicle damage (5 images), MRI results, Physical therapy treatment plan, Wage verification letter

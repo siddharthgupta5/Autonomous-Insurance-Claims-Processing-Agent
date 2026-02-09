@@ -1,0 +1,54 @@
+﻿
+              HOMEOWNERS PROPERTY DAMAGE CLAIM - ACORD FORM 4
+                     WATER DAMAGE LOSS NOTICE
+
+
+CLAIM INFORMATION
+Date of Loss
+January 9, 2024
+Time of Loss
+6:45 PM
+Type of Claim
+Water Damage - Property Damage
+
+POLICYHOLDER INFORMATION
+Policy Number
+POL-2024-002856
+Name of Policyholder
+Elizabeth Ann Watson
+Policy Effective Date
+11/01/2023
+Policy Expiration Date
+11/01/2024
+
+PROPERTY INFORMATION
+Property Type
+Single Family Residence
+Asset ID
+PROP-567-ELM
+Property Address
+567 Elm Street, Chicago, IL
+
+INCIDENT INFORMATION
+Location of Loss
+567 Elm Street basement and first floor, Chicago, IL
+
+DESCRIPTION OF LOSS
+Insured home sustained significant water damage due to burst water pipe in basement during extended cold weather event causing flooding to basement and first floor areas including water-soaked drywall, damaged flooring, and personal property damage.
+
+DAMAGE ASSESSMENT
+Estimated Damage Amount
+$47,300
+Initial Estimate
+$47,300
+
+CLAIMANT INFORMATION
+Claimant Name
+Elizabeth Ann Watson
+Contact Phone
+555-2468
+Contact Email
+ewatson@email.com
+
+ATTACHMENTS
+Photos of water damage (15 images), Video walkthrough, Plumber repair invoice, Water extraction log, Flooring assessment, Contents inventory
