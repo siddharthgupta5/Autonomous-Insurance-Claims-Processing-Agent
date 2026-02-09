@@ -1,0 +1,318 @@
+[
+  {
+    "extractedFields": {
+      "policy_info": {
+        "policy_number": "POL-2024-003415",
+        "policyholder_name": "Patricia Ellen Martinez",
+        "policy_effective_date": "09/01/2023",
+        "policy_expiration_date": "09/01/2024",
+        "insurance_company": null
+      },
+      "incident_info": {
+        "incident_date": "January 8, 2024",
+        "incident_time": "10:15 AM",
+        "incident_location": "Commonwealth Avenue and Exeter Street, Boston, MA",
+        "incident_description": "Claimant (passenger) was traveling in insured vehicle when vehicle was rear-ended by third-party vehicle at traffic light. The impact caused claimant to sustain neck, back, and shoulder injuries requiring emergency medical treatment.",
+        "weather_conditions": null
+      },
+      "involved_parties": [
+        {
+          "name": "Robert James Mitchell",
+          "relationship": "claimant",
+          "contact_phone": null,
+          "contact_email": null,
+          "address": null
+        },
+        {
+          "name": "Richard Scott Goldman",
+          "relationship": "third_party",
+          "contact_phone": "555-8021",
+          "contact_email": null,
+          "address": null
+        }
+      ],
+      "asset_details": {
+        "asset_type": "2020 Toyota Camry",
+        "asset_id": "2G1FB1E37D1278541",
+        "asset_description": null,
+        "estimated_damage": 35000.0,
+        "damage_description": null
+      },
+      "claim_type": "bodily_injury",
+      "initial_estimate": 35000.0,
+      "attachments": [
+        "Medical records from Boston Medical Center",
+        "MRI results",
+        "Physical therapy treatment plan",
+        "Wage verification letter",
+        "Photos of vehicle damage (5 images)",
+        "Police Report #BPD-2024-00892"
+      ],
+      "processing_notes": null,
+      "extraction_confidence": {
+        "policy_number": 0.95,
+        "policyholder_name": 0.95,
+        "incident_date": 0.95,
+        "incident_location": 0.95,
+        "incident_description": 0.95,
+        "asset_type": 0.95,
+        "estimated_damage": 0.95,
+        "claim_type": 0.95
+      }
+    },
+    "missingFields": [],
+    "recommendedRoute": "specialist_queue",
+    "reasoning": "Bodily injury claims require specialist review",
+    "flags": [
+      "SPECIALIZATION_REQUIRED"
+    ],
+    "confidenceScore": 0.95,
+    "processingTimestamp": "2026-02-09T17:39:52.768290"
+  },
+  {
+    "extractedFields": {
+      "policy_info": {
+        "policy_number": "POL-2024-001234",
+        "policyholder_name": "John David Smith",
+        "policy_effective_date": "06/15/2023",
+        "policy_expiration_date": "06/15/2024",
+        "insurance_company": null
+      },
+      "incident_info": {
+        "incident_date": "January 15, 2024",
+        "incident_time": "2:30 PM",
+        "incident_location": "Intersection of Main Street and Oak Avenue, Springfield, IL",
+        "incident_description": "Insured was traveling northbound on Main Street when vehicle was struck on the driver's side by a third-party vehicle that failed to stop at a red light.",
+        "weather_conditions": null
+      },
+      "involved_parties": [
+        {
+          "name": "John David Smith",
+          "relationship": "claimant",
+          "contact_phone": "555-0123",
+          "contact_email": "jsmith@email.com",
+          "address": null
+        },
+        {
+          "name": "Michael Robert Johnson",
+          "relationship": "third_party",
+          "contact_phone": "555-6789",
+          "contact_email": null,
+          "address": null
+        }
+      ],
+      "asset_details": {
+        "asset_type": "2020 Honda Accord",
+        "asset_id": "1HGCV1F30MA123456",
+        "asset_description": null,
+        "estimated_damage": 18500.0,
+        "damage_description": null
+      },
+      "claim_type": "collision",
+      "initial_estimate": 18500.0,
+      "attachments": [
+        "Witness statements (2)",
+        "Police Report #SPD-2024-00145",
+        "Repair estimate",
+        "Accident diagram",
+        "Photos of vehicle damage (8 images)"
+      ],
+      "processing_notes": null,
+      "extraction_confidence": {
+        "policy_number": 0.95,
+        "policyholder_name": 0.95,
+        "incident_date": 0.95,
+        "incident_location": 0.95,
+        "incident_description": 0.95,
+        "asset_type": 0.95,
+        "estimated_damage": 0.95,
+        "claim_type": 0.95
+      }
+    },
+    "missingFields": [],
+    "recommendedRoute": "fast_track",
+    "reasoning": "Estimated damage ($18,500.00) qualifies for fast-track processing",
+    "flags": [],
+    "confidenceScore": 0.95,
+    "processingTimestamp": "2026-02-09T17:39:52.769768"
+  },
+  {
+    "extractedFields": {
+      "policy_info": {
+        "policy_number": "POL-2024-002856",
+        "policyholder_name": "Elizabeth Ann Watson",
+        "policy_effective_date": "11/01/2023",
+        "policy_expiration_date": "11/01/2024",
+        "insurance_company": null
+      },
+      "incident_info": {
+        "incident_date": "January 9, 2024",
+        "incident_time": "6:45 PM",
+        "incident_location": "567 Elm Street basement and first floor, Chicago, IL",
+        "incident_description": "Insured home sustained significant water damage due to burst water pipe in basement during extended cold weather event causing flooding to basement and first floor areas including water-soaked drywall, damaged flooring, and personal property damage.",
+        "weather_conditions": null
+      },
+      "involved_parties": [
+        {
+          "name": "Elizabeth Ann Watson",
+          "relationship": "claimant",
+          "contact_phone": "555-2468",
+          "contact_email": "ewatson@email.com",
+          "address": null
+        }
+      ],
+      "asset_details": {
+        "asset_type": "Single Family Residence",
+        "asset_id": "PROP-567-ELM",
+        "asset_description": null,
+        "estimated_damage": 47300.0,
+        "damage_description": null
+      },
+      "claim_type": "property_damage",
+      "initial_estimate": 47300.0,
+      "attachments": [
+        "Photos of water damage (15 images)",
+        "Contents inventory",
+        "Flooring assessment",
+        "Plumber repair invoice",
+        "Video walkthrough",
+        "Water extraction log"
+      ],
+      "processing_notes": null,
+      "extraction_confidence": {
+        "policy_number": 0.95,
+        "policyholder_name": 0.95,
+        "incident_date": 0.95,
+        "incident_location": 0.95,
+        "incident_description": 0.95,
+        "asset_type": 0.95,
+        "estimated_damage": 0.95,
+        "claim_type": 0.95
+      }
+    },
+    "missingFields": [],
+    "recommendedRoute": "standard_processing",
+    "reasoning": "Standard processing route",
+    "flags": [],
+    "confidenceScore": 0.8,
+    "processingTimestamp": "2026-02-09T17:39:52.773905"
+  },
+  {
+    "extractedFields": {
+      "policy_info": {
+        "policy_number": "POL-2024-TEST123",
+        "policyholder_name": "Test User",
+        "policy_effective_date": "01/01/2024",
+        "policy_expiration_date": "01/01/2025",
+        "insurance_company": null
+      },
+      "incident_info": {
+        "incident_date": "January 20, 2024",
+        "incident_time": null,
+        "incident_location": "123 Test Street, Test City, TX",
+        "incident_description": "The circumstances of this accident seem staged and inconsistent with the reported damages. There are suspicious elements that suggest possible fraud.",
+        "weather_conditions": null
+      },
+      "involved_parties": [
+        {
+          "name": "Test User",
+          "relationship": "claimant",
+          "contact_phone": "555-1234",
+          "contact_email": null,
+          "address": null
+        }
+      ],
+      "asset_details": {
+        "asset_type": "2019 Ford F-150",
+        "asset_id": "1FTFW1E50KFA12345",
+        "asset_description": null,
+        "estimated_damage": 15000.0,
+        "damage_description": null
+      },
+      "claim_type": "property_damage",
+      "initial_estimate": 15000.0,
+      "attachments": [
+        "Test photos"
+      ],
+      "processing_notes": null,
+      "extraction_confidence": {
+        "policy_number": 0.95,
+        "policyholder_name": 0.95,
+        "incident_date": 0.95,
+        "incident_location": 0.95,
+        "incident_description": 0.95,
+        "asset_type": 0.95,
+        "estimated_damage": 0.95,
+        "claim_type": 0.95
+      }
+    },
+    "missingFields": [],
+    "recommendedRoute": "investigation_flag",
+    "reasoning": "Estimated damage ($15,000.00) qualifies for fast-track processing",
+    "flags": [
+      "FRAUD_FLAG"
+    ],
+    "confidenceScore": 0.9,
+    "processingTimestamp": "2026-02-09T17:39:52.775830"
+  },
+  {
+    "extractedFields": {
+      "policy_info": {
+        "policy_number": "POL-2024-INCOMPLETE",
+        "policyholder_name": "Jennifer Brown",
+        "policy_effective_date": null,
+        "policy_expiration_date": null,
+        "insurance_company": null
+      },
+      "incident_info": {
+        "incident_date": "January 25, 2024",
+        "incident_time": null,
+        "incident_location": "Downtown area near shopping mall",
+        "incident_description": "Vehicle was damaged in parking lot. Details are unclear.",
+        "weather_conditions": null
+      },
+      "involved_parties": [
+        {
+          "name": "Jennifer Brown",
+          "relationship": "claimant",
+          "contact_phone": "555-9999",
+          "contact_email": null,
+          "address": null
+        }
+      ],
+      "asset_details": {
+        "asset_type": "2021 Nissan Altima",
+        "asset_id": null,
+        "asset_description": null,
+        "estimated_damage": null,
+        "damage_description": null
+      },
+      "claim_type": "collision",
+      "initial_estimate": null,
+      "attachments": [
+        "Single photo of damage"
+      ],
+      "processing_notes": null,
+      "extraction_confidence": {
+        "policy_number": 0.95,
+        "policyholder_name": 0.95,
+        "incident_date": 0.95,
+        "incident_location": 0.95,
+        "incident_description": 0.95,
+        "asset_type": 0.95,
+        "estimated_damage": 0.0,
+        "claim_type": 0.95
+      }
+    },
+    "missingFields": [
+      "estimated_damage"
+    ],
+    "recommendedRoute": "manual_review",
+    "reasoning": "Missing mandatory fields: estimated_damage",
+    "flags": [
+      "MISSING_MANDATORY_FIELDS"
+    ],
+    "confidenceScore": 0.85,
+    "processingTimestamp": "2026-02-09T17:39:52.778673"
+  }
+]
